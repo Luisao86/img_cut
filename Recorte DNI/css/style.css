@@ -1,0 +1,9 @@
+#canvas {
+    border: 1px solid black;
+    max-width: 100%;
+    height: auto;
+  }
+  #compressed{
+      max-width: 100%;
+      height:auto;
+  }
